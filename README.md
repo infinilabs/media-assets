@@ -13,11 +13,13 @@ Publisher Media Assets.
 
 
 
+
 ### 尺寸和比例
 
 在使用场景中需要确保在各种媒体上都能清晰可见， 缩放时不得改变标志比例， 以避免形变。
 
 ![bili](https://github.com/698723/image/blob/main/bili.png)
+
 
 
 
@@ -29,11 +31,13 @@ Publisher Media Assets.
 
 
 
+
 ### 变体和修改
 
 禁止对标志进行未经授权的修改或变体。保持标志的一致性有助于建立品牌的可识别性。
 
 ![bianti](https://github.com/698723/image/blob/main/bianti.png)
+
 
 
 
