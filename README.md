@@ -12,7 +12,6 @@ Changing the logo color is strictly prohibited to ensure consistency across vari
 ![yanse](https://github.com/698723/image/blob/main/yanse.png)
 
 
-
 ### **Size and Proportion**
 
 In different usage scenarios, it is crucial to choose an appropriate size for the logo, ensuring clear visibility across diverse media. When adjusting the logo size, it is imperative to maintain the logo's proportions unchanged.
